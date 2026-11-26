@@ -10,7 +10,7 @@ Temática del Juego: Escape / El Templo Olvidado.
 
 Premisa:
 
-XXXXXXXXXXXXXXX
+jhgjyhgjhg
 
 ⚙️ Estado del Proyecto (Fase 1: Motor Básico)
 Esta primera versión del proyecto (Misión 1 / UD1-UD3) implementa el "núcleo" del motor de juego usando programación procedural (métodos estáticos) y arrays .
