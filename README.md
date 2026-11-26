@@ -4,7 +4,7 @@
 Miembros del Equipo:
 
 [Alejandro Toscano Rufo]
-[Nombre Alumno/a 2]
+[Carolina Ruiz Estévez]
 📖 Nuestra Historia (El "Piel")
 Temática del Juego: Escape / El Templo Olvidado.
 
